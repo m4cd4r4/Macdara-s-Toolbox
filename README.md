@@ -22,7 +22,7 @@ python grabber.py
 1. Open the `grabber.py` script in a text editor.
 
 2. Modify the `url` variable at the top of the script to the website you want to scrape:
-```python
+
 url = 'https://example.com'
 
 
