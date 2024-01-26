@@ -36,4 +36,5 @@ This project is available under the MIT License. This means you can use, copy, m
 Appropriate credit is given, and the copyright notice and this permission notice are included in all copies or substantial portions of the Software.
 
 The software is provided "as is", without warranty of any kind.
+
 For the full license text, refer to the MIT License.
