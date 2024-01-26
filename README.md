@@ -30,7 +30,8 @@ Run the script as mentioned in the installation and running section.
 
 Once completed, check the downloaded_content folder for images and text blocks, and a spreadsheet named text_blocks_[domain].xlsx for the text content.
 
-License
+## License
+
 This project is available under the MIT License. This means you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software under the following conditions:
 
 Appropriate credit is given, and the copyright notice and this permission notice are included in all copies or substantial portions of the Software.
@@ -38,3 +39,4 @@ Appropriate credit is given, and the copyright notice and this permission notice
 The software is provided "as is", without warranty of any kind.
 
 For the full license text, refer to the MIT License.
+s
