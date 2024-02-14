@@ -28,4 +28,3 @@ Run the script in a Python environment. It requires Python 3.x.
 
 If the mirroring process fails, the script will catch a `subprocess.CalledProcessError` and raise a `RuntimeError` with details about the failure. This feature aids in debugging and ensures users are aware of any issues encountered during execution.
 
-For more information on HTTrack's capabilities and options, refer to the [official HTTrack documentation](http://www.httrack.com/).
