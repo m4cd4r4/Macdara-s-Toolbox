@@ -11,7 +11,7 @@ import base64
 import openpyxl
 
 # Ensure this URL is correct and you have permission to scrape the website
-url = 'https://felixmobile.com.au/plan/'
+url = '[enter-your-url-here]'
 
 # Make a request to the website
 r = requests.get(url)

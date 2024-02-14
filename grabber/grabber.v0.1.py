@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 # Make sure to replace this with the actual URL
-url = 'https://felixmobile.com.au'
+url = '[enter-your-url-here]'
 
 # Make a request to the website
 r = requests.get(url)
